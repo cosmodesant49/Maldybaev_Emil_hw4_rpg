@@ -7,7 +7,7 @@ public class Main {
     public static String[] heroesAttackType = {"Physical", "Magical", "Kinetic","Medic"};
     public static int[] heroesHealth = {280, 270, 250, 500};
     public static int[] heroesDamage = {10, 15, 20, 0};
-    public static int[] heroesHealing = {200};
+    public static int[] heroesHealing = {300};
     public static int roundNumber;
 
     public static void main(String[] args) {
